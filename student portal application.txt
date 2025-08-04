@@ -7,4 +7,7 @@ college : Aditya degree college
 branch : gwk
 section : bsc(ds)
 phno: 8897515491
+
 email: indulalam1@gmail.com
+linkdin
+github
